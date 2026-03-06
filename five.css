@@ -7,3 +7,5 @@ var="stringtwo"
 if variable -eq var;
    print { random parnt}
 
+else:
+   print {something or nothing wrong on this area"}
