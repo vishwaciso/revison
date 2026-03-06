@@ -9,7 +9,4 @@ if variable -eq var;
 
 else:
    print {something or nothing wrong on this area"}
-if  variable -ne cloud:
-   print {randomly}
-else:
-   print {nothing}
+
